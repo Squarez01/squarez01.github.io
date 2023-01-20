@@ -1,8 +1,8 @@
 ---
-title: First Post
-date: 2023-01-19 16:00
-categories: frist post, jekyll
-tags: jekyll, homelab
+title: "First Post"
+date: 2023-01-19 16:00:00 -700
+categories: [frist post,jekyll]
+tags: [jekyll,homelab]
 ---
 
 # First post
@@ -10,6 +10,11 @@ tags: jekyll, homelab
 Welcome to my documentation site. this is my first attemp at a documentation site with github pages. 
 
 there are very cool thing that i can do with this site
+
+Lists
+* one
+* two
+* three
 
 Codeblocks
 ```python
