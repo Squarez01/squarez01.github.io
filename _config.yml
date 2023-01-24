@@ -21,7 +21,7 @@ timezone: America/Denver
 
 title: Salofam                          # the main title
 
-tagline: Documentation for Salofam Homelab   # it will display as the sub-title
+tagline: Documentation for the Salofam Homelab   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Documentation for Salofam Homelab
