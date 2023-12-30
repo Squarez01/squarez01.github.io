@@ -19,12 +19,12 @@ timezone: America/Denver
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Salofam                          # the main title
+title: SaloFam                          # the main title
 
-tagline: Documentation for Salofam Homelab   # it will display as the sub-title
+tagline: Documentation for SaloFam Homelab   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Documentation for Salofam Homelab
+  Documentation for SaloFam Homelab
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://squarez01.github.io'
@@ -89,7 +89,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent-den2-1.xx.fbcdn.net/v/t1.6435-1/79082765_10157792465059894_4445369624707465216_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=2b6aad&_nc_ohc=LLsOoarp_XcAX-SAv6A&_nc_ht=scontent-den2-1.xx&oh=00_AfB0tNFN3I83GOmDCRzLkNOQ6DZbHdbmu-QHCK4N1bUI6g&oe=65B721E0
 
 # boolean type, the global switch for ToC in posts.
 toc: true
