@@ -1,5 +1,5 @@
 ---
-title: "PiHole"
+title: "Things to Document"
 date: 2023-12-29 20:53:00 -700
 categories: [Pihole]
 tags: [pihole,homelab,proxmox]
