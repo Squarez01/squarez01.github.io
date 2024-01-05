@@ -14,6 +14,6 @@ It is running in a docker container and was created using Docker compose.
 ## Updating Uptime Kuma
 ```shell
 cd "<YOUR docker-compose.yml DIRECTORY>"
-docker compose pull
-docker compose up -d --force-recreate
+docker-compose pull
+docker-compose up -d --force-recreate
 ```
