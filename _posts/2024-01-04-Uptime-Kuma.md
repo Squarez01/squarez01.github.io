@@ -1,5 +1,5 @@
 ---
-title: "Update Kuma"
+title: "Uptime Kuma"
 date: 2024-01-04 21:45:00 -700
 categories: [Uptime Kuma]
 tags: [homelab,proxmox,update kuma]
