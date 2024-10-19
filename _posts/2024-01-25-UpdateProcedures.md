@@ -15,4 +15,3 @@ updating can be a pain for the many different services and VMs that are used in 
 ```shell
 sudo apt update && sudo apt upgrade
 ```
-
